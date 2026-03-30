@@ -2,7 +2,7 @@ Mixed-Signal Control Board – STM32F4 Based
 
 Overview
 
-This project is a custom-designed mixed-signal embedded control board integrating high-performance digital processing, precision analog acquisition, and dual motor control on a single PCB. The system is built around the STM32F407 microcontroller and includes an onboard STM32F103-based debugger for standalone development and programming.
+This project is a 4 layer custom-designed mixed-signal embedded control board integrating high-performance digital processing, precision analog acquisition, and dual motor control on a single PCB. The system is built around the STM32F407 microcontroller and includes an onboard STM32F103-based debugger for standalone development and programming.
 
 The board is intended for robotics, motion control, signal processing, and embedded system research applications.
 
